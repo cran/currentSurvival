@@ -1,5 +1,7 @@
 
 import(survival,cmprsk)
+importFrom("graphics", "axis", "legend", "lines")
+importFrom("stats", "pchisq", "quantile")
 export(cci,clfs,cci.strat,clfs.strat,cci.nostrat,clfs.nostrat,cci.pest,comci.pest,clfs.pest,lfs.pest,stretch,pvals.cat,pvals.2cat,chisq.naive,chisq.log,chisq.loglog)
 
 

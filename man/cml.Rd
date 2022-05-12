@@ -22,7 +22,7 @@ data of patients with chronic myeloid leukaemia
   }
 }
 
-\source{ population-based, observational study, INFINITY (\url{http://www.leukemia-cell.org/en/}) }
+\source{ population-based, observational study, INFINITY (\url{https://www.leukemia-cell.org/index-en.php?pg=infinity--project-information}) }
 
 \references{ 
 Pavlik T., Janousova E., Pospisil Z., et al. (2011). Estimation of current cumulative incidence of leukaemia-free patients and current leukaemia-free survival in chronic myeloid leukaemia in the era of modern pharmacotherapy. \emph{BMC Med Res Methodol} \bold{11}:140.

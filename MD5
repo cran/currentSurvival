@@ -1,5 +1,5 @@
-cca3556aefd545624d8bbc329306792a *DESCRIPTION
-a966fc4b9c846387afda4f959acf2997 *NAMESPACE
+db003d0359983b8717d7f25bec06102b *DESCRIPTION
+7ef8b6036611df53b668c8e90b89f12e *NAMESPACE
 b6c7ded06189e81757b0fa569a3cc41f *R/cci.R
 531e54330fc5dbdc5f9815263cc2d775 *R/cci.nostrat.R
 78490c160768c18455e07acdde5f73bd *R/cci.pest.R
@@ -28,7 +28,7 @@ a45d208717f8022a55a5de95b8247b91 *man/chisq.log.Rd
 971e2d232dbc988f1dee73c8229106f4 *man/clfs.nostrat.Rd
 0dfbd46e2adbc89803b09acbb9e055dd *man/clfs.pest.Rd
 998bc8f1f41e4a74a6e6faa30d50e3fd *man/clfs.strat.Rd
-29f8ab1cffd4cbc0d94a9d7cd858b4bf *man/cml.Rd
+d3b9103c5dda7fccf63204bfca717c28 *man/cml.Rd
 af091db47a03515371ad1a0546d74591 *man/comci.pest.Rd
 4232e6e8a81b7e95f468a426c2c0ad14 *man/lfs.pest.Rd
 b34b6c18517782c734df9f4a95b1d775 *man/pvals.2cat.Rd
